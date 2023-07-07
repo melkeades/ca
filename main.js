@@ -9,3 +9,4 @@ function raf(time) {
 }
 
 requestAnimationFrame(raf)
+console.log('qwe')
